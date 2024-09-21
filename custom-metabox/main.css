@@ -1,0 +1,8 @@
+.form-table > tbody > tr {
+    display: flex;
+    flex-direction: column;
+}
+#author {
+    display: block;
+    width: 100%;
+}
