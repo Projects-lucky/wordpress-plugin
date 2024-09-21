@@ -1,10 +1,10 @@
 Here's a sample README file for your WordPress custom meta box code:
 
-# WP Skills Custom Meta Box
+# Custom Meta Box
 
 ## Description
 
-The WP Skills Custom Meta Box plugin adds a custom meta box to the post editor in WordPress. This allows users to input additional information, such as an author name, directly within the post editor. The plugin includes functionality for media uploads, providing an easy interface for adding images or other media.
+The Custom Meta Box plugin adds a custom meta box to the post editor in WordPress. This allows users to input additional information, such as an author name, directly within the post editor. The plugin includes functionality for media uploads, providing an easy interface for adding images or other media.
 
 ## Features
 
